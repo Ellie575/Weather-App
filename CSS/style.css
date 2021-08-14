@@ -1,0 +1,49 @@
+body {
+  margin: 0 auto;
+}
+
+input {
+  padding: 12px 180px;
+  display: block;
+}
+
+button {
+  width: 150px;
+  border-radius: 10px;
+  display: inline;
+}
+
+ul {
+  margin-top: 20px;
+  font-size: 19px;
+  padding-left: 0rem;
+}
+
+li {
+  list-style: none;
+}
+
+.weather-app {
+  border: 1px solid grey;
+  border-radius: 30px;
+  box-shadow: 5px 5px 5px grey;
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+  padding: 40px 80px;
+}
+
+.form-control {
+  width: 100%;
+}
+
+.card-text {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.col-2 {
+  display: block;
+  text-align: center;
+  font-size: 17px;
+}
